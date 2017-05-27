@@ -2,7 +2,7 @@
 //  AppDelegate.m
 //  tp8.1
 //
-//  Created by Nikita Syrovatnikov on 20.05.17.
+//  Created by Admin on 20.05.17.
 //  Copyright (c) 2017 Admin. All rights reserved.
 //
 
