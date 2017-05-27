@@ -1,6 +1,6 @@
 //
 //  AppDelegate.h
-//  Lab8_1_1
+//  tp8.1
 //
 //  Created by Nikita Syrovatnikov on 20.05.17.
 //  Copyright (c) 2017 Admin. All rights reserved.
